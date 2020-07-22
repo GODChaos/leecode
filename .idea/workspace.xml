@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO128/NO101_199/NO128/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO128/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO167/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1400_1499/NO1486/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1500_1599/NO1512/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO215/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO350/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO09/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO09/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO101_199/NO128/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO125/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,12 +106,24 @@
       <workItem from="1594597699813" duration="4218000" />
       <workItem from="1595207788585" duration="787000" />
       <workItem from="1595208703161" duration="3620000" />
-      <workItem from="1595376348518" duration="1840000" />
+      <workItem from="1595376348518" duration="2245000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1595378615956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595378615956</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="571" y="322" key="#Plugins" timestamp="1595211023152">
