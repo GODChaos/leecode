@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="" />
+    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO128/NO101_199/NO128/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO128/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO167/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1400_1499/NO1486/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1500_1599/NO1512/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO215/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO350/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO09/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO09/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NO101_199/NO128/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO125/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,35 +42,59 @@
     </option>
   </component>
   <component name="ProjectId" id="1WVrlqdoscrWimshhoBQZyt5NPU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/NO101_199/NO128" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/jianzhi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO1400_1499\NO1486" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199\NO125" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NO1500_1599.NO1431" />
+      <recent name="NO101_199.NO167" />
+      <recent name="NO300_399.NO215" />
+      <recent name="NO200_299.NO739" />
+      <recent name="NO1400_1499.NO1486" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="leecode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="应用程序.test" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
@@ -68,24 +107,91 @@
       <option name="presentableId" value="Default" />
       <updated>1579245756764</updated>
       <workItem from="1579245758211" duration="474000" />
+      <workItem from="1592181986686" duration="121000" />
+      <workItem from="1592182131051" duration="143000" />
+      <workItem from="1592537234843" duration="8034000" />
+      <workItem from="1592955680373" duration="2577000" />
+      <workItem from="1593387797282" duration="117000" />
+      <workItem from="1593387926933" duration="884000" />
+      <workItem from="1593475790063" duration="3088000" />
+      <workItem from="1593993772088" duration="797000" />
+      <workItem from="1594000094960" duration="652000" />
+      <workItem from="1594088676909" duration="1306000" />
+      <workItem from="1594172870260" duration="3137000" />
+      <workItem from="1594597699813" duration="4218000" />
+      <workItem from="1595207788585" duration="787000" />
+      <workItem from="1595208703161" duration="3620000" />
+      <workItem from="1595376348518" duration="1840000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="877" y="519" key="FileChooserDialogImpl" timestamp="1579246380834">
+    <state x="571" y="322" key="#Plugins" timestamp="1595211023152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="877" y="519" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579246380834" />
-    <state x="376" y="143" key="SettingsEditor" timestamp="1579246363371">
+    <state x="571" y="322" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1595211023152" />
+    <state x="1279" y="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592538092498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="376" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579246363371" />
-    <state x="378" y="316" key="new project wizard" timestamp="1579245898941">
+    <state x="1279" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592538092498" />
+    <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595208523469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="378" y="316" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579245898941" />
+    <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595208523469" />
+    <state x="267" y="322" key="#插件" timestamp="1595226388178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="322" key="#插件/0.0.1920.1040@0.0.1920.1040" timestamp="1595226388178" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1595316791202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595316791202" />
+    <state width="1302" height="167" key="GridCell.Tab.0.bottom" timestamp="1592548497894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1302" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592548497894" />
+    <state width="1302" height="167" key="GridCell.Tab.0.center" timestamp="1592548497894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1302" height="167" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592548497894" />
+    <state width="1302" height="167" key="GridCell.Tab.0.left" timestamp="1592548497894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1302" height="167" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592548497894" />
+    <state width="1302" height="167" key="GridCell.Tab.0.right" timestamp="1592548497894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1302" height="167" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592548497894" />
+    <state x="960" y="249" key="Maven.ArtifactSearchDialog" timestamp="1592538277457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="960" y="249" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592538277457" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1594000045599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594000045599" />
+    <state x="753" y="443" key="chooseDestDirectoryDialog" timestamp="1592549180731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="443" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592549180731" />
+    <state x="1079" y="352" key="git4idea.merge.GitPullDialog" timestamp="1592537265499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1079" y="352" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592537265499" />
+    <state x="482" y="115" key="new project wizard" timestamp="1595316795272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="482" y="115" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595316795272" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1594611688263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594611688263" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594611869120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594611869120" />
   </component>
 </project>
