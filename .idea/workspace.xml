@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist" />
+    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO343/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,13 +25,13 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:/tools/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../tools/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1WVrlqdoscrWimshhoBQZyt5NPU" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="新增" />
   </component>
   <component name="ProjectViewState">
@@ -51,20 +55,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO1400_1499\NO1486" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199\NO125" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NO300_399.NO343" />
       <recent name="NO1500_1599.NO1431" />
       <recent name="NO101_199.NO167" />
       <recent name="NO300_399.NO215" />
       <recent name="NO200_299.NO739" />
-      <recent name="NO1400_1499.NO1486" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO1400_1499\NO1486" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199\NO125" />
     </key>
   </component>
   <component name="RunManager">
@@ -107,6 +111,7 @@
       <workItem from="1595207788585" duration="787000" />
       <workItem from="1595208703161" duration="3620000" />
       <workItem from="1595376348518" duration="2245000" />
+      <workItem from="1596076477674" duration="4309000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
