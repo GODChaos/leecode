@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO59/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO59/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO62/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1000_1099/NO1025/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO100/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO104/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO198/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1500_1599/NO1528/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO336/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO392/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO27/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO55_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO56/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mianshiti/NO0202/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mianshiti/NO0402/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mianshiti/NO0402/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mianshiti/NO0804/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO0_99/NO64/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO64/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +23,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:\tools\apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../tools/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -87,47 +44,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/NO101_199/NO128" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/NO0_99" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/jianzhi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="com.github.izhangzhihao.rainbow.fart.settings.RainbowFartConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="jianzhi.NO5" />
-      <recent name="jianzhi.NO55_1" />
-      <recent name="mianshiti.NO0202" />
-      <recent name="jianzhi.NO56" />
-      <recent name="NO101_199.NO100" />
+      <recent name="NO300_399.NO343" />
+      <recent name="NO1500_1599.NO1431" />
+      <recent name="NO101_199.NO167" />
+      <recent name="NO300_399.NO215" />
+      <recent name="NO200_299.NO739" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO0_99" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\mianshiti" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO1400_1499\NO1486" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199\NO125" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NO300_399.NO392.Solution" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NO300_399.NO392.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="leecode" />
@@ -137,12 +79,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Solution" />
         <item itemvalue="应用程序.test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
   </component>
@@ -168,16 +108,8 @@
       <workItem from="1594597699813" duration="4218000" />
       <workItem from="1595207788585" duration="787000" />
       <workItem from="1595208703161" duration="3620000" />
-      <workItem from="1595376348518" duration="4513000" />
-      <workItem from="1595463149524" duration="2326000" />
-      <workItem from="1595471751832" duration="7335000" />
-      <workItem from="1595809614214" duration="11625000" />
-      <workItem from="1596587576437" duration="1197000" />
-      <workItem from="1596591384032" duration="29000" />
-      <workItem from="1596670544531" duration="3877000" />
-      <workItem from="1596759546982" duration="3092000" />
-      <workItem from="1597028046845" duration="4287000" />
-      <workItem from="1597126848979" duration="6142000" />
+      <workItem from="1595376348518" duration="2245000" />
+      <workItem from="1596076477674" duration="7918000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
@@ -187,29 +119,17 @@
       <updated>1595378615956</updated>
     </task>
     <task id="LOCAL-00002" summary="Default Changelist">
-      <created>1595378845278</created>
+      <created>1596089210511</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1595378845278</updated>
+      <updated>1596089210511</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
@@ -232,18 +152,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="267" y="322" key="#插件/0.0.1920.1040@0.0.1920.1040" timestamp="1595226388178" />
-    <state x="601" y="21" key="CommitChangelistDialog2" timestamp="1595378952366">
+    <state x="350" y="42" key="CommitChangelistDialog2" timestamp="1596089202105">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="350" y="42" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1596089202105" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1595316791202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="601" y="21" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595378952366" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1595379454085">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595316791202" />
+    <state x="918" y="602" width="256" height="298" key="Github.ShareDialog" timestamp="1596093415973">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595379454085" />
-    <state x="762" y="333" width="378" height="316" key="Github.ShareDialog" timestamp="1595379865386">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="762" y="333" width="378" height="316" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595379865386" />
+    <state x="918" y="602" width="256" height="298" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596093415973" />
     <state width="1302" height="167" key="GridCell.Tab.0.bottom" timestamp="1592548497894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -264,14 +184,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="960" y="249" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592538277457" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1596770041341">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1594000045599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596770041341" />
-    <state x="543" y="187" key="Vcs.Push.Dialog.v2" timestamp="1595378543708">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="543" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595378543708" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594000045599" />
     <state x="753" y="443" key="chooseDestDirectoryDialog" timestamp="1592549180731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -280,21 +196,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1079" y="352" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592537265499" />
-    <state x="743" y="353" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595378575508">
+    <state x="482" y="115" key="new project wizard" timestamp="1595316795272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="353" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595378575508" />
-    <state x="482" y="115" key="new project wizard" timestamp="1595812564807">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="482" y="115" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595812564807" />
+    <state x="482" y="115" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595316795272" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1594611688263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594611688263" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597127619200">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594611869120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597127619200" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594611869120" />
   </component>
 </project>
