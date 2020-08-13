@@ -29,7 +29,20 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist" />
+    <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO77/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO133/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1304/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1309/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1400_1499/NO1409/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO226/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO617/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO900_999/NO938/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO24/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO24/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NO0_99/NO59/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO59/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +62,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../tools/apache-maven-3.6.3" />
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -79,20 +92,21 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="NO300_399.NO343" />
-      <recent name="NO1500_1599.NO1431" />
-      <recent name="NO101_199.NO167" />
-      <recent name="NO300_399.NO215" />
-      <recent name="NO200_299.NO739" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO900_999" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO1400_1499\NO1486" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199\NO125" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NO0_99.NO77" />
+      <recent name="NO1300_1399.NO1309" />
+      <recent name="NO1300_1399.NO1304" />
+      <recent name="NO200_299.NO226" />
+      <recent name="NO1400_1499.NO1409" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
     </key>
   </component>
   <component name="RunManager">
@@ -103,12 +117,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
   </component>
@@ -136,6 +162,7 @@
       <workItem from="1595208703161" duration="3620000" />
       <workItem from="1595376348518" duration="2245000" />
       <workItem from="1596076477674" duration="7918000" />
+      <workItem from="1597190638890" duration="20640000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
@@ -151,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596089210511</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1597134971088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597134971088</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -198,6 +232,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595208523469" />
+    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597199770384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597199770384" />
     <state x="267" y="322" key="#插件" timestamp="1595226388178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -238,6 +276,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594000045599" />
+    <state x="452" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597134989947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597134989947" />
     <state x="753" y="443" key="chooseDestDirectoryDialog" timestamp="1592549180731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
