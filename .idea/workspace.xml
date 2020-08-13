@@ -30,18 +30,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO77/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO133/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1304/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1309/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1400_1499/NO1409/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO226/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO617/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO900_999/NO938/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO24/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO24/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1323/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1400_1499/NO1460/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO206/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO590/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO700/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO739/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO801_899/NO832/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO25/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO25/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO54/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO0_99/NO59/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO59/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NO701_799/NO739/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO657/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NO701_799/NO771/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO771/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/jianzhi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -94,16 +95,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO500_599" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO801_899" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO200_299" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO900_999" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO1400_1499\NO1486" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199\NO125" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="NO0_99.NO77" />
-      <recent name="NO1300_1399.NO1309" />
-      <recent name="NO1300_1399.NO1304" />
-      <recent name="NO200_299.NO226" />
-      <recent name="NO1400_1499.NO1409" />
+      <recent name="jianzhi.NO54" />
+      <recent name="NO700_799.NO700" />
+      <recent name="NO600_699.NO657" />
+      <recent name="NO1400_1499.NO1460" />
+      <recent name="NO1300_1399.NO1323" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
@@ -162,7 +164,7 @@
       <workItem from="1595208703161" duration="3620000" />
       <workItem from="1595376348518" duration="2245000" />
       <workItem from="1596076477674" duration="7918000" />
-      <workItem from="1597190638890" duration="20640000" />
+      <workItem from="1597190638890" duration="34999000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597134971088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1597278369669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597278369669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,14 +281,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="960" y="249" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592538277457" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1594000045599">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1597301150359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594000045599" />
-    <state x="452" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597134989947">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597301150359" />
+    <state x="452" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597278388125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597134989947" />
+    <state x="452" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597278388125" />
     <state x="753" y="443" key="chooseDestDirectoryDialog" timestamp="1592549180731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,4 +1,4 @@
-package NO701_799.NO739;//package NO38;
+package NO700_799.NO739;//package NO38;
 
 class Solution {
     public int[] dailyTemperatures(int[] T) {

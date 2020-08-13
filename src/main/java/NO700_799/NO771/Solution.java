@@ -1,4 +1,4 @@
-package NO701_799.NO771;
+package NO700_799.NO771;
 
 class Solution {
     public int numJewelsInStones(String J, String S) {
