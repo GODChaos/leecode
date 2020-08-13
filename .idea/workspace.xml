@@ -1,48 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1323/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1400_1499/NO1460/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO206/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO590/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO700/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO739/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO801_899/NO832/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO25/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO25/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO54/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO114/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO701_799/NO739/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO657/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO701_799/NO771/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO771/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +25,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../tools/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -87,28 +49,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/jianzhi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO500_599" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO801_899" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO200_299" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO900_999" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="jianzhi.NO54" />
-      <recent name="NO700_799.NO700" />
-      <recent name="NO600_699.NO657" />
-      <recent name="NO1400_1499.NO1460" />
-      <recent name="NO1300_1399.NO1323" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NO300_399.NO343" />
+      <recent name="NO1500_1599.NO1431" />
+      <recent name="NO101_199.NO167" />
+      <recent name="NO300_399.NO215" />
+      <recent name="NO200_299.NO739" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO1400_1499\NO1486" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199\NO125" />
     </key>
   </component>
   <component name="RunManager">
@@ -119,24 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
   </component>
@@ -163,8 +111,9 @@
       <workItem from="1595207788585" duration="787000" />
       <workItem from="1595208703161" duration="3620000" />
       <workItem from="1595376348518" duration="2245000" />
-      <workItem from="1596076477674" duration="7918000" />
-      <workItem from="1597190638890" duration="34999000" />
+      <workItem from="1596076477674" duration="8639000" />
+      <workItem from="1597230282232" duration="581000" />
+      <workItem from="1597319288558" duration="166000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
@@ -181,48 +130,17 @@
       <updated>1596089210511</updated>
     </task>
     <task id="LOCAL-00003" summary="Default Changelist">
-      <created>1597134971088</created>
+      <created>1596093653251</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1597134971088</updated>
+      <updated>1596093653251</updated>
     </task>
-    <task id="LOCAL-00004" summary="Default Changelist">
-      <created>1597278369669</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1597278369669</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
@@ -241,18 +159,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595208523469" />
-    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597199770384">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597199770384" />
     <state x="267" y="322" key="#插件" timestamp="1595226388178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="267" y="322" key="#插件/0.0.1920.1040@0.0.1920.1040" timestamp="1595226388178" />
-    <state x="350" y="42" key="CommitChangelistDialog2" timestamp="1596089202105">
+    <state x="350" y="42" key="CommitChangelistDialog2" timestamp="1596093646580">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="350" y="42" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1596089202105" />
+    <state x="350" y="42" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1596093646580" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1595316791202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -281,14 +195,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="960" y="249" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592538277457" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1597301150359">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1594000045599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597301150359" />
-    <state x="452" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597278388125">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594000045599" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1596093737816">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="452" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597278388125" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1596093737816" />
     <state x="753" y="443" key="chooseDestDirectoryDialog" timestamp="1592549180731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -297,10 +211,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1079" y="352" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592537265499" />
-    <state x="650" y="405" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597134778989">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="752" y="424" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596093721478">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="650" y="405" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597134778989" />
+    <state x="752" y="424" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596093721478" />
     <state x="482" y="115" key="new project wizard" timestamp="1595316795272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -313,5 +227,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594611869120" />
+    <state x="878" y="413" key="svn.repositoryBrowser" timestamp="1596093622973">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="878" y="413" key="svn.repositoryBrowser/0.0.1920.1050@0.0.1920.1050" timestamp="1596093622973" />
   </component>
 </project>
