@@ -30,19 +30,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1323/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1400_1499/NO1460/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO206/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO590/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO700/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO739/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO801_899/NO832/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO25/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO25/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO54/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO1500_1599/NO1518/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO344/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO344/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO349/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO900_999/NO905/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO57_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO68_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO68_2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO701_799/NO739/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO657/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO701_799/NO771/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO771/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,17 +91,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO300_399" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO500_599" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO801_899" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO200_299" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO900_999" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NO900_999.NO905" />
+      <recent name="jianzhi.NO57_2" />
+      <recent name="NO1500_1599.NO1518" />
       <recent name="jianzhi.NO54" />
       <recent name="NO700_799.NO700" />
-      <recent name="NO600_699.NO657" />
-      <recent name="NO1400_1499.NO1460" />
-      <recent name="NO1300_1399.NO1323" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
@@ -165,6 +161,8 @@
       <workItem from="1595376348518" duration="2245000" />
       <workItem from="1596076477674" duration="7918000" />
       <workItem from="1597190638890" duration="34999000" />
+      <workItem from="1597362275167" duration="8011000" />
+      <workItem from="1597373961883" duration="4309000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
@@ -241,10 +239,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595208523469" />
-    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597199770384">
+    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597366398461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597199770384" />
+    <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597366398461" />
     <state x="267" y="322" key="#插件" timestamp="1595226388178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -293,6 +291,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="753" y="443" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592549180731" />
+    <state x="0" y="261" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597373534027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="261" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597373534027" />
     <state x="1079" y="352" key="git4idea.merge.GitPullDialog" timestamp="1592537265499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
