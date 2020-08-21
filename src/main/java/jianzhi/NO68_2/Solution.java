@@ -1,22 +1,20 @@
 package jianzhi.NO68_2;
 
-class Solution {
-    public String longestCommonPrefix(String[] strs) {
-        if (strs.length == 0)
-            return "";
-        String ans = strs[0];
-        for (int i = 1; i < strs.length; i++) {
-            int j = 0;
 
-            while (j<strs[i].length()&&j < ans.length() && (ans.charAt(j) == strs[i].charAt(j))) {
-                j++;
-            }
-            ans = ans.substring(0, j);
-            if (ans.equals(""))
-                return ans;
+import util.TreeNode;
+
+class Solution {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if (isAncestor(root, p) && (isAncestor(root, q))) {
+            if (isAncestor(root.left, p) && (isAncestor(root.left, q))) return lowestCommonAncestor(root.left, p, q);
+            if (isAncestor(root.right, p) && (isAncestor(root.right, q))) return lowestCommonAncestor(root.right, p, q);
         }
-        return ans;
+        return root;
     }
 
-
+    public boolean isAncestor(TreeNode root, TreeNode target) {
+        if (root == null) return false;
+        else if (root==target||root.left == target || root.right == target) return true;
+        else return (isAncestor(root.left, target) || isAncestor(root.right, target));
+    }
 }

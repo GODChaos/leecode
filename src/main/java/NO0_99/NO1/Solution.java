@@ -1,15 +1,7 @@
-package jianzhi.NO68_2;
+package NO0_99.NO1;
 
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int x) {
-        val = x;
-    }
-}
+import util.TreeNode;
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
@@ -22,7 +14,7 @@ class Solution {
 
     public boolean isAncestor(TreeNode root, TreeNode target) {
         if (root == null) return false;
-        else if (root.left == target || root.right == target) return true;
+        else if (root==target||root.left == target || root.right == target) return true;
         else return (isAncestor(root.left, target) || isAncestor(root.right, target));
     }
 }
