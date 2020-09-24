@@ -30,48 +30,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO66/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO69/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO83/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO88/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO110/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO111/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO118/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO119/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO121/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO122/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO141/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO1300_1399/NO1394/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO202/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO202/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO203/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO204/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO205/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO217/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO219/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO231/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO234/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO263/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO268/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO278/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO283/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO326/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO342/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO367/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO575/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO669/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO801_899/NO821/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO57/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO94/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO190/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO257/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO258/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO347/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO383/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO387/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO389/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO434/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO441/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO448/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO485/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO538/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO628/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO633/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO671/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO801_899/NO836/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.TwoSum/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.TwoSum/src/main/java/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO0_99/NO58/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO58/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/NO68_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/NO68_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/NO68_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NO200_299/NO226/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO226/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +93,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/NO101_199/NO128" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/NO200_299" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/NO101_199" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -122,22 +102,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NO801_899.NO836" />
+      <recent name="NO600_699.NO671" />
+      <recent name="NO600_699.NO633" />
+      <recent name="NO500_599.NO628" />
+      <recent name="NO400_499.NO485" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO200_299" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO0_99" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO500_599" />
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
       <recent name="E:\IdeaProjects\leecode\src\main\java\jianzhi" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="NO300_399.NO367" />
-      <recent name="NO300_399.NO342" />
-      <recent name="NO300_399.NO326" />
-      <recent name="NO200_299.NO283" />
-      <recent name="NO200_299.NO278" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
     </key>
   </component>
   <component name="RunManager">
@@ -200,6 +180,12 @@
       <workItem from="1597635855775" duration="1890000" />
       <workItem from="1597644864442" duration="2529000" />
       <workItem from="1597714545112" duration="59271000" />
+      <workItem from="1598594818948" duration="781000" />
+      <workItem from="1599104741639" duration="704000" />
+      <workItem from="1599113994860" duration="3826000" />
+      <workItem from="1600041246339" duration="2912000" />
+      <workItem from="1600241023772" duration="596000" />
+      <workItem from="1600651163867" duration="22388000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
@@ -272,10 +258,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1279" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592538092498" />
-    <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595208523469">
+    <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600041872336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595208523469" />
+    <state x="659" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600041872336" />
     <state x="1051" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597366398461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
