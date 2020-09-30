@@ -30,28 +30,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5238bc97-14b1-4410-b52c-ebbd525ff7c9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO94/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO190/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO257/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO258/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO347/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO383/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO387/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO300_399/NO389/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO434/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO441/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO448/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO400_499/NO485/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO538/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/NO628/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO500_599/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO633/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO600_699/NO671/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NO801_899/NO836/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO0_99/NO6/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO117/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO117/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO101_199/NO145/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO235/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NO700_799/NO701/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NO200_299/NO226/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NO200_299/NO226/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +92,11 @@
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="NO801_899.NO836" />
-      <recent name="NO600_699.NO671" />
-      <recent name="NO600_699.NO633" />
-      <recent name="NO500_599.NO628" />
-      <recent name="NO400_499.NO485" />
+      <recent name="NO700_799.NO701" />
+      <recent name="NO0_99.NO6" />
+      <recent name="NO0_99.NO5" />
+      <recent name="NO101_199.NO145" />
+      <recent name="NO200_299.NO235" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\leecode\src\main\java\NO101_199" />
@@ -185,7 +171,7 @@
       <workItem from="1599113994860" duration="3826000" />
       <workItem from="1600041246339" duration="2912000" />
       <workItem from="1600241023772" duration="596000" />
-      <workItem from="1600651163867" duration="22388000" />
+      <workItem from="1600651163867" duration="40984000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1595378615956</created>
@@ -215,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597278369669</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Default Changelist">
+      <created>1600929267695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600929267695</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,10 +299,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597301150359" />
-    <state x="452" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597278388125">
+    <state x="452" y="249" key="Vcs.Push.Dialog.v2" timestamp="1600929279730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597278388125" />
+    <state x="452" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600929279730" />
     <state x="753" y="443" key="chooseDestDirectoryDialog" timestamp="1592549180731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
